@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
+input[type=button]{
+    background: linear-gradient(93.24deg, #444BAB 0%, #3CA5C2 100%);
+    border-radius: 6px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 149.8%;
+    color: whitesmoke;
+}
 .nav-bar {
     position: absolute;
     width: 1440px;
@@ -69,16 +78,152 @@ top: 22px;
 position: absolute;
 right: 2%;
 bottom: 99.45%;
-
-font-family: 'Poppins';
-font-style: normal;
 font-weight: 600;
 font-size: 16px;
+}
+.header{
+    position: absolute;
+    width: 641px;
+    height: 170px;
+    left: 123px;
+    top: 213px;
+    
+    /* or 90px */
+}
+#Be-a-text{
+    color: #444557;
+}
+#Software-Enginner-text{
+    color: linear-gradient(91.41deg,#303ABB 100%,#3CA5C2 100%);
+}
+.form-box{
+box-sizing: border-box;
+
+position:absolute;
+width: 493px;
+height: 523px;
+left: 848px;
+top: 213px;
+
+background: #FFFFFF;
+border: 1px solid rgba(174, 178, 203, 0.22);
+box-shadow: 0px 0.5px 4px rgba(0, 0, 0, 0.25);
+border-radius: 8px;
+}
+.intro{
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
 line-height: 149.8%;
 
-/* or 24px */
+/* identical to box height, or 21px */
+text-align: center;
 
-color: #FFFFFF;
-background: linear-gradient(91.41deg, #444BAB 0%, #3AA2C1 99.71%);
-border-radius: 6px;
+color: #4F516B;
+}
+.def{
+    
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 149.8%;
+    
+    /* identical to box height, or 36px */
+    text-align: center;
+    
+    color: #4F516B;
+}
+label {
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 100;
+position: relative;
+left: 20px;
+line-height: 30px;
+
+/* identical to box height */
+
+color: #737171;
+}
+
+input[type=text],[type=email],[type=number] {
+    width: 450px;
+    height: 48px;
+    position: relative;
+    left: 20px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    border-radius: 6px;
+}
+.Book-Call{    
+position: relative;
+top: 45px;
+left: 20px;
+width: 450px;
+height: 50px;
+}
+.fancy{
+    position: absolute;
+width: 235px;
+height: 489px;
+left: 1206px;
+top: 143px;
+
+background: linear-gradient(180deg, #444BAB 0%, rgba(99, 167, 211, 0.265625) 73.44%, rgba(110, 200, 225, 0) 100%);
+}
+.companies{
+position: absolute;
+width: 513px;
+height: 95.21px;
+left: 105px;
+top: 427px;
+}
+.logo *{
+position: relative;
+width: 162px;
+height: 53px;
+display: inline-block;
+}
+.many-more{
+    position:absolute;
+    width: 180px;
+    height: 24px;
+    left: 497px;
+    
+    font-family: 'Poppins', sans-serif;
+    font-style: italic;
+    font-weight:500 !important;
+    font-size :16px ;
+    line-height: 24px;
+    
+    /* identical to box height */
+    
+    color: #272834;
+}
+#Start-Learning{
+position: absolute;
+width: 302px;
+height: 56px;
+left: 123px;
+top: 616px;
+}
+#Watch-100{
+    position: absolute;
+width: 546px;
+height: 27px;
+left: 123px;
+top:686px;
+
+ font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 149.8%;
+
+/* identical to box height, or 27px */
+
+color: #263238;
 }
