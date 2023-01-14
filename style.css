@@ -642,3 +642,14 @@ color: #444557;
     
     color: #505050;
 }
+.text-Area-info button{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 184px;
+height: 49px;
+background: linear-gradient(180deg, #3E8EBC 0%, #444BAB 100%);
+
+border-radius: 6px;
+}
