@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lexend:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato:wght@700&display=swap');
 
 input[type=button]{
     background: linear-gradient(93.24deg, #444BAB 0%, #3CA5C2 100%);
@@ -474,4 +476,114 @@ line-height: 149.8%;
 /* or 30px */
 
 color: #444BAB;
+}
+.text{
+    position: absolute;
+    top: 1858px;
+    display: flex;
+    width:1540px;
+    height: 92px;
+    color: #444BAB;
+    justify-content: center;
+}
+.text  p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+}
+.text h3{
+    position: absolute;
+
+width: 588px;
+height: 44px;
+top: 18px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 149.8%;
+
+/* or 54px */
+text-align: center;
+
+color: #444557;
+}
+.numbers{
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+    top: 2034px;
+    width: 1540px;
+    height: auto;
+    display: flex;
+}
+.boxes{
+    position: relative;
+    display: inline-block;
+    justify-content: space-evenly;
+    width: 181px;
+    height: 97px;
+}
+.number{
+width: 149px;
+height: 60px;
+display: flex;
+justify-content: space-evenly;
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+color: #444BAB;
+line-height: 149.8%;
+
+}
+.define{
+    position: absolute;
+    width: 149px;
+    height: 30px;
+    top: 77px;
+    
+    font-family: 'Inter',sans-serif;
+   
+    line-height: 149.8%;
+    
+    /* identical to box height, or 30px */
+    text-align: center;
+    
+    color: #4F5062;    
+}
+.text2{
+    position: absolute;
+    top: 2277px;
+    display: flex;
+    width:1540px;
+    height: 92px;
+    color: #444BAB;
+    justify-content: center;
+}
+.text2 p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+font-size: 20px;
+line-height: 149.8%;
+}
+.text2 h3{
+    position: absolute;
+
+width: 588px;
+height: 44px;
+top: 18px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 149.8%;
+
+/* or 54px */
+text-align: center;
+
+color: #444557;
 }
