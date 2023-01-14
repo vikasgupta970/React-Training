@@ -653,3 +653,62 @@ background: linear-gradient(180deg, #3E8EBC 0%, #444BAB 100%);
 
 border-radius: 6px;
 }
+.Alumni{
+    position: relative;
+display: flex;
+    top: 2764px;
+    left: 124px;
+}
+.inside-Alumni{
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    margin: 0;
+    margin-bottom: 14px;
+    font-family: 'Popins',sans-serif;
+    font: size 20px;
+    line-height: 149.8%;
+    font-weight: 600;
+    color: #444BAB;
+}
+.Alumni h2{
+    margin: 0;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 149.8%;
+
+    /* or 54px */
+
+    color: #4F516B;
+    width: 633px;
+    height: 158px;
+}
+.description2{
+    top: 225px;
+    left: 0;
+    width: 611px;
+height: 186px;
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+color: #616161;
+}
+.logo-showup{
+    display: flex;
+    order: 3;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 480px;
+    height: 400px;
+    margin-left: 50px;
+}
+.logo-showup img{
+    width: 150px;
+    height: 32px;
+}
