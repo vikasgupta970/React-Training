@@ -20,7 +20,7 @@ input[type=button]{
     height: 79px;
     left: 0px;
     top: 0px;
-    font-family: 'Abel', sans-serif;
+    font-family: 'abel', sans-serif;
     background: #FFFFFF;
     box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.03);
     text-decoration: none;
@@ -43,6 +43,7 @@ top: 18.76px;
     top: 35px;
     line-height: 16px;
 }
+
 .learning-path{   
     width: 115px;
     left: 369px;
@@ -479,7 +480,7 @@ color: #444BAB;
 }
 .text{
     position: absolute;
-    top: 1858px;
+   
     display: flex;
     width:1540px;
     height: 92px;
@@ -494,7 +495,6 @@ line-height: 149.8%;
 }
 .text h3{
     position: absolute;
-
 width: 588px;
 height: 44px;
 top: 18px;
@@ -509,6 +509,10 @@ line-height: 149.8%;
 text-align: center;
 
 color: #444557;
+}
+
+#text1{
+    top: 1858px;
 }
 .numbers{
     position: absolute;
@@ -554,38 +558,9 @@ line-height: 149.8%;
     
     color: #4F5062;    
 }
-.text2{
+#text2{
     position: absolute;
     top: 2277px;
-    display: flex;
-    width:1540px;
-    height: 92px;
-    color: #444BAB;
-    justify-content: center;
-}
-.text2 p{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 600;
-font-size: 20px;
-line-height: 149.8%;
-}
-.text2 h3{
-    position: absolute;
-
-width: 588px;
-height: 44px;
-top: 18px;
-
-font-family: 'Poppins',sans-serif;
-font-style: normal;
-font-weight: 600;
-font-size: 36px;
-line-height: 149.8%;
-
-/* or 54px */
-text-align: center;
-
-color: #444557;
 }
 .outer-info{
     top: 2503px;
@@ -711,4 +686,8 @@ color: #616161;
 .logo-showup img{
     width: 150px;
     height: 32px;
+}
+#text3{
+    position: absolute;
+    top: 3892px;
 }
