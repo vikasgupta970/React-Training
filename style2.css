@@ -251,7 +251,7 @@ line-height: 149.8%;
 
 color: #4F516B;
 }
-.description2{
+.description3{
     position: absolute;
 width: 332px;
 height: 72px;
@@ -336,16 +336,17 @@ height: 48px;
     top: 8208px;
     font-family: 'Popins',sans-serif;  
 }
-/* .Start-free-trial{
+.Start-free-trial2{
     position: absolute;
     width: 189px;
     height: 40px;
-    left: 1296px;
-    top: 4078px;
+    display: flex;
+    left: 45%;
+    top: 135px;
     position: absolute;
     right: 2%;
     bottom: 99.45%;
     font-weight: 600;
     font-size: 16px;
-    } */
+    }
 
