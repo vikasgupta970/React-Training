@@ -104,7 +104,6 @@ font-size: 16px;
 }
 .form-box{
 box-sizing: border-box;
-
 position:absolute;
 width: 493px;
 height: 523px;
@@ -430,6 +429,7 @@ text-shadow: 0px 29px 20px #111111;
 }
 .HEAD{
 position: absolute;
+text-decoration: none;
 width: 294px;
 height: 72px;
 left: 16px;
@@ -460,7 +460,7 @@ line-height: 24px;
 
 color: #616161;
 }
-.inner a{
+.inner-link{
     
 position: absolute;
 width: 117px;
