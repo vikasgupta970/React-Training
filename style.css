@@ -691,3 +691,230 @@ color: #616161;
     position: absolute;
     top: 3892px;
 }
+.profile{
+
+    position: absolute;
+    width: 171px;
+    height: 171px;
+    left: 240px;
+    top: 4150px;
+
+    border-radius: 200px;
+}
+#profile-colon{
+    position: absolute;
+    width: 52px;
+    height: 81px;
+    left: 456px;
+    top: 3925px;
+    
+    font-family: 'Plantagenet Cherokee';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 151px;
+    line-height: 149.8%;
+    
+    /* or 226px */
+    
+    color: rgba(132, 141, 199, 0.44);
+}
+#profile-para{
+    position: absolute;
+    width: 683px;
+    height: 75px;
+    left: 535px;
+    top: 4134px;
+    
+    font-family: 'Poppins',sans-serif;
+    line-height: 149.8%;
+    
+    /* or 27px */
+    
+    color: #6e6d6d;
+}
+#profile-heading{
+    position: absolute;
+    width: 136px;
+    height: 30px;
+    left: 535px;
+    top: 4219px;
+    
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    
+    /* identical to box height, or 30px */
+    text-align: center;
+    
+    color: #000000;
+}
+#profile-logo{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 681px;
+    top: 4245px;
+}
+#profile-text{
+    position: absolute;
+    width: 280px;
+    height: 27px;
+    left: 530px;
+    top: 4255px;
+    
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    
+    /* identical to box height, or 27px */
+    text-align: center;
+    
+    color: #666262;
+        
+}
+#profile-amazon-logo{
+    position: absolute;
+    width: 150px;
+    height: 56px;
+    left: 256px;
+    top: 4331px;
+}
+#profile-button{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 182px;
+    height: 44px;
+    left: 679px;
+    top: 4425px;
+    border-radius: 6px;
+}
+#profile-button-text{
+/* Read More Stories */
+
+position: absolute;
+width: 138px;
+height: 18px;
+left: 698px;
+top: 4436px;
+text-decoration: none;
+font-family: 'Gilroy-Bold',sans-serif;
+font-size: 16px;
+line-height: 19px;
+
+background: linear-gradient(180deg, #444BAB 0%, #3E8EBC 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+
+#text4{
+    position:absolute;
+    top: 4596px;
+}
+
+.co-founder-div{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    top: 3897px;
+    height: 755px;
+    background: linear-gradient(96.55deg, rgba(62, 142, 188, 0.62) 0%, rgba(63, 126, 184, 0.536146) 30.88%, 
+rgba(65, 106, 179, 0.429948) 84.64%, rgba(67, 81, 173, 0.301779) 99.02%, rgba(68, 75, 171, 0.67) 102.21%);
+}
+.co-founder{
+    position: relative;
+    display: flex;
+    justify-content: space-evenly;
+    width: 368px;
+    height: 623px;
+}
+.box{
+    box-sizing: border-box;
+    display: flex ;
+    flex-direction: column;  
+    
+    position: absolute;
+    width: 368px;
+    height: 552px;
+    bottom: 0;
+    background: #FFFFFF;
+    border: 1px solid rgba(132, 144, 199, 0.35);
+}
+.co-founder img{
+    width: 166.22px;
+height: 179.49px;
+z-index: 23;
+border-radius: 144px;
+background:rgb(231, 241, 240);
+}
+.box h2{
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    padding-left: 111px;
+    padding-top: 115px;
+    font-weight: 600;
+    font-size: 16px;
+    /* line-height: 149.8%; */
+    
+    /* or 24px */
+    
+    color: #272834;
+}
+.box #designation{
+    position: absolute;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 71px;
+    padding-top: 144px;
+    font-size: 12px;
+    line-height: 149.8%;
+    
+    /* or 18px */
+    
+    color: #67686B;
+    
+       
+}
+#about{
+    position: absolute;
+    width: 326px;
+    height: 250px;
+    left: 21px;
+    padding-top: 191px;
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 163.8%;
+    
+    /* or 25px */
+    text-align: center;
+    
+    color: #505050;
+    
+    
+}
+#coFounderDivLogo *{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 454px;
+    left: 144px;
+}
+#coFounderDivLogo2 *{
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    top: 454px;
+    left: 192px;
+}
+
+
