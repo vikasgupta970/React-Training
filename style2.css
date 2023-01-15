@@ -265,3 +265,33 @@ line-height: 24px;
 
 color: #616161;
 }
+
+#Read-More-Blogs{
+    box-sizing: border-box;
+
+position: absolute;
+width: 182px;
+height: 44px;
+left: 674px;
+top: 7238px;
+
+border-radius: 6px;
+}
+#Read-More-Blogs-Link{
+text-decoration: none;
+position: absolute;
+width: 126px;
+height: 18px;
+left: 695px;
+top: 7254px;
+
+font-family: 'Gilroy-Bold',sans-serif;
+font-size: 16px;
+line-height: 19px;
+
+background: linear-gradient(180deg, #444BAB 0%, #3E8EBC 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+}
+
