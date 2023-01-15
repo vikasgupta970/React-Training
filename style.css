@@ -495,7 +495,7 @@ line-height: 149.8%;
 }
 .text h3{
     position: absolute;
-width: 588px;
+width: 686px;
 height: 44px;
 top: 18px;
 
@@ -849,7 +849,7 @@ rgba(65, 106, 179, 0.429948) 84.64%, rgba(67, 81, 173, 0.301779) 99.02%, rgba(68
 .co-founder img{
     width: 166.22px;
 height: 179.49px;
-z-index: 23;
+z-index: 12;
 border-radius: 144px;
 background:rgb(231, 241, 240);
 }

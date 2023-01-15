@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato:wght@700&display=swap');
+
+#p1_Title{
+
+    position: absolute;
+    width: 255px;
+    height: 30px;
+    left: 127px;
+    top: 5793px;
+    
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    
+    /* identical to box height, or 30px */
+    text-align: center;
+    
+    color: #444BAB;
+}
+#p1_Heading{
+    position: absolute;
+width: 217px;
+height: 54px;
+left: 127px;
+top: 5841px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 149.8%;
+
+/* identical to box height, or 54px */
+text-align: center;
+
+color: #4F516B;
+
+
+}
+
+#p1_para{
+    
+position: absolute;
+width: 591px;
+height: 107px;
+left: 127px;
+top: 5949px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 149.8%;
+
+/* or 27px */
+
+color: #646262;
+}
+
+#p1_Saying{
+    
+position: absolute;
+width: 547px;
+height: 288px;
+left: 807px;
+top: 5859px;
+
+background: #FFFF;
+box-shadow: 0px 2px 10px 5px #E6E6EA;
+border-radius: 6px;
+
+}
+
+#p1_colon{
+    position: absolute;
+width: 33px;
+height: 90px;
+left: 122px;
+/* top: 5893px; */
+
+font-family: 'Pontano Sans',sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 140px;
+line-height: 149.8%;
+
+/* or 210px */
+
+color: #416AB3;
+
+
+}
+
+#p1_Saying p{
+    position: absolute;
+    width: 371px;
+    height: 103px;
+    left: 182px;
+    top: 79px;
+    
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 149.8%;
+    
+    /* or 19px */
+    
+    color: #000000;
+}
+
+#p1_Saying h2{
+    
+position: absolute;
+width: 134px;
+height: 22px;
+left: 182px;
+top: 225px;
+
+font-family: 'Poppins',sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 149.8%;
+
+/* or 24px */
+
+color: #000000;
+}
+
+#p1_Saying h6{
+    
+position: absolute;
+width: 361px;
+height: 39px;
+left: 182px;
+top: 233px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 149.8%;
+
+/* or 21px */
+
+color: #403f3f;
+}
+
+#p1_img{
+    position: absolute;
+    z-index: 12;
+width: 184px;
+height: 162px;
+left: 740px;
+top: 5880px;
+border-radius: 30px;
+background-color: rgb(141, 141, 141);
+}
+
+#p1_button{
+    
+position: absolute;
+width: 200px;
+height: 49px;
+left: 127px;
+top: 6122px;
+
+background: linear-gradient(93.44deg, #444BAB -6.8%, #3CA5C2 186.94%);
+border-radius: 6px;
+}
+#text5{
+    position: absolute;
+    top: 6317px;
+    font-family: 'Popins',sans-serif;
+}
+#Blogs-para{
+    
+position: absolute;
+width: 787px;
+height: 24px;
+left: 375px;
+top: 105px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 149.8%;
+
+/* or 27px */
+text-align: center;
+
+color: #4e4b4b;
+}
