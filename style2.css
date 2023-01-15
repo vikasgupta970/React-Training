@@ -299,7 +299,7 @@ background-clip: text;
 .form-div{
     position: relative;
     height: 589px;
-    top: 5778px;
+    top: 5728px;
     background: rgb(243, 244, 255);
 }
 .form-div img{
@@ -350,3 +350,120 @@ height: 48px;
     font-size: 16px;
     }
 
+.footer{
+    position: relative;
+    height: 519px;
+    top:6026px;
+    margin: 114px 0px 114px 0px;
+    background:#000000;
+    display: flex;
+    flex-direction: column;
+    left: -2px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: inset 0px 6px 5px #EBECFF; 
+}
+.inner-footer1{
+    position: relative;
+    margin-top: 47px;
+    height: 340px;
+    width: 650px;
+}
+.inner-footer1 h2{
+width: 368px;
+height: 90px;
+margin: 0;
+font-weight: 600;
+font-family: 'Poppins',sans-serif;
+font-size: 30px;
+line-height: 149.8%;
+
+/* or 45px */
+
+color: #4F516B;
+}
+.inner-footer1 p{
+    width: 336px;
+    height: 22px;
+    margin-top: 28px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 149.8%;
+    
+    /* or 30px */
+    
+    color: #505050;
+}
+.inner-footer2{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-top: 47px;
+    height: 340px;
+    width: 550px;
+}
+.inner-footer2 img{
+    width: 262px;
+height: 42.75px;
+}
+.inner-footer2 p{
+    position: absolute;
+    width: 466px;
+    height: 48px;
+    padding-top: 20px;
+    margin-top: 50px;
+    font-family: 'Poppins',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 149.8%;
+    
+    /* or 24px */
+    
+    color: #444557;
+}
+.inner-footer2-div{
+    width: 272px;
+    height: 42px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+    margin-top: 121px;
+}
+.inner-footer2-div img{
+    width:48px;
+    height: 48px;
+    display: flex;
+    background: #FAFAFB;
+    flex-wrap: wrap;
+border-radius: 12px;
+}
+.inner-footer1-div{
+    width: 462px;
+    margin-top:57px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 67px;
+    height: 139px;
+}
+
+.inner-footer1-div a{
+    width: 221px;
+    text-decoration: none;
+height: 27px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 149.8%;
+
+/* identical to box height, or 27px */
+
+color: #4F516B;
+}
